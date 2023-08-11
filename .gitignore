@@ -158,3 +158,16 @@ cython_debug/
 #  and can be added to the global gitignore or merged into this file.  For a more nuclear
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
+
+
+# Dataset
+*classically_punk_music_genres.tar.gz
+*genres/
+
+
+# Envorment
+*punk/
+
+
+# Catches
+*.DS_Store
